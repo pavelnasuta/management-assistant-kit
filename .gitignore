@@ -1,0 +1,15 @@
+# Local leader profiles
+**/leader-profile.local.md
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Agent and editor state
+.claude/settings.local.json
+.opencode/
+
+# Secrets and environment
+.env
+.env.*
+!.env.example
